@@ -1,0 +1,23 @@
+INFO: 2019/03/08 10:05:57 Service dependencies resolved...
+INFO: 2019/03/08 10:05:57 Starting edgex-support-notifications 0.7.1 
+INFO: 2019/03/08 10:05:57 This is the Support Notifications Microservice
+INFO: 2019/03/08 10:05:57 Service started in: 1.64551524s
+INFO: 2019/03/08 10:05:57 Listening on port: 48060
+WARN: 2019/03/08 18:48:59 terminating: interrupt
+INFO: 2019/03/19 12:48:25 Service dependencies resolved...
+INFO: 2019/03/19 12:48:25 Starting edgex-support-notifications 0.7.1 
+INFO: 2019/03/19 12:48:25 This is the Support Notifications Microservice
+INFO: 2019/03/19 12:48:25 Service started in: 1.658427678s
+INFO: 2019/03/19 12:48:25 Listening on port: 48060
+INFO: 2019/03/19 12:50:19 Service dependencies resolved...
+INFO: 2019/03/19 12:50:19 Starting edgex-support-notifications 0.7.1 
+INFO: 2019/03/19 12:50:19 This is the Support Notifications Microservice
+INFO: 2019/03/19 12:50:19 Service started in: 843.863473ms
+INFO: 2019/03/19 12:50:19 Listening on port: 48060
+WARN: 2019/03/19 12:50:19 terminating: listen tcp :48060: bind: address already in use
+INFO: 2019/03/19 12:52:56 Service dependencies resolved...
+INFO: 2019/03/19 12:52:56 Starting edgex-support-notifications 0.7.1 
+INFO: 2019/03/19 12:52:56 This is the Support Notifications Microservice
+INFO: 2019/03/19 12:52:56 Service started in: 85.597935ms
+INFO: 2019/03/19 12:52:56 Listening on port: 48060
+WARN: 2019/03/19 12:52:56 terminating: listen tcp :48060: bind: address already in use

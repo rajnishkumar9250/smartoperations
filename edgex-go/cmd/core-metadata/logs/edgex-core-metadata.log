@@ -1,0 +1,28 @@
+INFO: 2019/03/08 10:05:56 Service dependencies resolved...
+INFO: 2019/03/08 10:05:56 Starting edgex-core-metadata 0.7.1 
+INFO: 2019/03/08 10:05:56 This is the EdgeX Core Metadata Microservice
+INFO: 2019/03/08 10:05:56 Service started in: 1.200681345s
+INFO: 2019/03/08 10:05:56 Listening on port: 48081
+ERROR: 2019/03/08 10:06:00 Item not found
+WARN: 2019/03/08 10:06:02 Problem notifying associated device services for schedule event: Item not found
+ERROR: 2019/03/08 10:06:02 Item not found
+WARN: 2019/03/08 10:06:02 Problem notifying associated device services for schedule event: Item not found
+WARN: 2019/03/08 18:48:59 terminating: interrupt
+INFO: 2019/03/19 12:48:25 Service dependencies resolved...
+INFO: 2019/03/19 12:48:25 Starting edgex-core-metadata 0.7.1 
+INFO: 2019/03/19 12:48:25 This is the EdgeX Core Metadata Microservice
+INFO: 2019/03/19 12:48:25 Service started in: 710.042522ms
+INFO: 2019/03/19 12:48:25 Listening on port: 48081
+WARN: 2019/03/19 12:48:25 terminating: listen tcp :48081: bind: address already in use
+INFO: 2019/03/19 12:50:22 Service dependencies resolved...
+INFO: 2019/03/19 12:50:22 Starting edgex-core-metadata 0.7.1 
+INFO: 2019/03/19 12:50:22 This is the EdgeX Core Metadata Microservice
+INFO: 2019/03/19 12:50:22 Service started in: 398.10833ms
+INFO: 2019/03/19 12:50:22 Listening on port: 48081
+WARN: 2019/03/19 12:50:22 terminating: listen tcp :48081: bind: address already in use
+INFO: 2019/03/19 12:52:56 Service dependencies resolved...
+INFO: 2019/03/19 12:52:56 Starting edgex-core-metadata 0.7.1 
+INFO: 2019/03/19 12:52:56 This is the EdgeX Core Metadata Microservice
+INFO: 2019/03/19 12:52:56 Service started in: 123.946818ms
+INFO: 2019/03/19 12:52:56 Listening on port: 48081
+WARN: 2019/03/19 12:52:56 terminating: listen tcp :48081: bind: address already in use

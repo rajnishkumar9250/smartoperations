@@ -1,0 +1,35 @@
+INFO: 2019/03/08 10:05:57 Service dependencies resolved...edgex-support-scheduler
+INFO: 2019/03/08 10:05:57 Starting edgex-support-scheduler 0.7.1 
+INFO: 2019/03/08 10:05:57 Loading schedules, schedule events, and addressables ...
+INFO: 2019/03/08 10:05:57 Support Scheduler established connection to Core Metadata
+INFO: 2019/03/08 10:05:57 scheduler could not find schedule id with schedule with name : midnight
+INFO: 2019/03/08 10:06:00 Added schedule midnight to the core-metadata with id 5c81f12df02fc515fff1e220
+ERROR: 2019/03/08 10:06:00 scheduler could not find schedule id with schedule event name : scrub-aged-events
+INFO: 2019/03/08 10:06:01 Added addressable into core-metadata name: schedule-scrub-aged-events id: 5c81f130f02fc515fff1e221 path: /api/v1/event/removeold/age/604800000
+INFO: 2019/03/08 10:06:02 Added schedule event scrub-aged-events to the core-metadata with id 5c81f131f02fc515fff1e222
+ERROR: 2019/03/08 10:06:02 scheduler could not find schedule id with schedule event name : scrub-pushed-events
+INFO: 2019/03/08 10:06:02 Added addressable into core-metadata name: schedule-scrub-pushed-events id: 5c81f132f02fc515fff1e223 path: /api/v1/event/scrub
+INFO: 2019/03/08 10:06:02 Added schedule event scrub-pushed-events to the core-metadata with id 5c81f132f02fc515fff1e224
+INFO: 2019/03/08 10:06:02 Finished loading schedules, schedule events, and addressables
+INFO: 2019/03/08 10:06:02 This is the Support Scheduler Microservice
+INFO: 2019/03/08 10:06:02 Service started in: 6.940542723s
+INFO: 2019/03/08 10:06:02 Listening on port: 48085
+WARN: 2019/03/08 18:48:59 terminating: interrupt
+INFO: 2019/03/19 12:48:25 Service dependencies resolved...edgex-support-scheduler
+INFO: 2019/03/19 12:48:25 Starting edgex-support-scheduler 0.7.1 
+INFO: 2019/03/19 12:48:25 Loading schedules, schedule events, and addressables ...
+INFO: 2019/03/19 12:48:25 Support Scheduler established connection to Core Metadata
+INFO: 2019/03/19 12:48:25 Added schedule name: Interval-5s to the schedule id: 5c5abaab9f8fc200014b28d9 
+INFO: 2019/03/19 12:48:25 Added schedule name: Interval-3s to the schedule id: 5c5abaab9f8fc200014b28da 
+INFO: 2019/03/19 12:50:19 Service dependencies resolved...edgex-support-scheduler
+INFO: 2019/03/19 12:50:19 Starting edgex-support-scheduler 0.7.1 
+INFO: 2019/03/19 12:50:19 Loading schedules, schedule events, and addressables ...
+INFO: 2019/03/19 12:50:19 Support Scheduler established connection to Core Metadata
+INFO: 2019/03/19 12:50:20 Added schedule name: Interval-5s to the schedule id: 5c5abaab9f8fc200014b28d9 
+INFO: 2019/03/19 12:50:20 Added schedule name: Interval-3s to the schedule id: 5c5abaab9f8fc200014b28da 
+INFO: 2019/03/19 12:52:56 Service dependencies resolved...edgex-support-scheduler
+INFO: 2019/03/19 12:52:56 Starting edgex-support-scheduler 0.7.1 
+INFO: 2019/03/19 12:52:56 Loading schedules, schedule events, and addressables ...
+INFO: 2019/03/19 12:52:56 Support Scheduler established connection to Core Metadata
+INFO: 2019/03/19 12:52:56 Added schedule name: Interval-5s to the schedule id: 5c5abaab9f8fc200014b28d9 
+INFO: 2019/03/19 12:52:56 Added schedule name: Interval-3s to the schedule id: 5c5abaab9f8fc200014b28da 

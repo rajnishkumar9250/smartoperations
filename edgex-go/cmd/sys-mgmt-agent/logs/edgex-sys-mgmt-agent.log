@@ -1,0 +1,23 @@
+INFO: 2019/03/08 10:05:56 Service dependencies resolved...
+INFO: 2019/03/08 10:05:56 Starting edgex-sys-mgmt-agent 0.7.1 
+INFO: 2019/03/08 10:05:56 This is the System Management Agent Service
+INFO: 2019/03/08 10:05:56 Service started in: 933.280653ms
+INFO: 2019/03/08 10:05:56 Listening on port: 48090
+WARN: 2019/03/08 18:48:59 terminating: interrupt
+INFO: 2019/03/19 12:48:24 Service dependencies resolved...
+INFO: 2019/03/19 12:48:24 Starting edgex-sys-mgmt-agent 0.7.1 
+INFO: 2019/03/19 12:48:24 This is the System Management Agent Service
+INFO: 2019/03/19 12:48:24 Service started in: 161.263911ms
+INFO: 2019/03/19 12:48:24 Listening on port: 48090
+INFO: 2019/03/19 12:50:19 Service dependencies resolved...
+INFO: 2019/03/19 12:50:19 Starting edgex-sys-mgmt-agent 0.7.1 
+INFO: 2019/03/19 12:50:19 This is the System Management Agent Service
+INFO: 2019/03/19 12:50:19 Service started in: 18.770094ms
+INFO: 2019/03/19 12:50:19 Listening on port: 48090
+WARN: 2019/03/19 12:50:19 terminating: listen tcp :48090: bind: address already in use
+INFO: 2019/03/19 12:52:56 Service dependencies resolved...
+INFO: 2019/03/19 12:52:56 Starting edgex-sys-mgmt-agent 0.7.1 
+INFO: 2019/03/19 12:52:56 This is the System Management Agent Service
+INFO: 2019/03/19 12:52:56 Service started in: 74.73255ms
+INFO: 2019/03/19 12:52:56 Listening on port: 48090
+WARN: 2019/03/19 12:52:56 terminating: listen tcp :48090: bind: address already in use

@@ -1,0 +1,24 @@
+INFO: 2019/03/08 10:05:57 Service dependencies resolved...
+INFO: 2019/03/08 10:05:57 Starting edgex-export-client 0.7.1 
+INFO: 2019/03/08 10:05:57 This is the Export Client Microservice
+INFO: 2019/03/08 10:05:57 Service started in: 1.857708881s
+INFO: 2019/03/08 10:05:57 Listening on port: 48071
+WARN: 2019/03/08 18:48:59 terminating: interrupt
+INFO: 2019/03/19 12:48:25 Service dependencies resolved...
+INFO: 2019/03/19 12:48:25 Starting edgex-export-client 0.7.1 
+INFO: 2019/03/19 12:48:25 This is the Export Client Microservice
+INFO: 2019/03/19 12:48:25 Service started in: 1.242188183s
+INFO: 2019/03/19 12:48:25 Listening on port: 48071
+WARN: 2019/03/19 12:48:25 terminating: listen tcp :48071: bind: address already in use
+INFO: 2019/03/19 12:50:21 Service dependencies resolved...
+INFO: 2019/03/19 12:50:21 Starting edgex-export-client 0.7.1 
+INFO: 2019/03/19 12:50:21 This is the Export Client Microservice
+INFO: 2019/03/19 12:50:21 Service started in: 774.109923ms
+INFO: 2019/03/19 12:50:21 Listening on port: 48071
+WARN: 2019/03/19 12:50:22 terminating: listen tcp :48071: bind: address already in use
+INFO: 2019/03/19 12:52:56 Service dependencies resolved...
+INFO: 2019/03/19 12:52:56 Starting edgex-export-client 0.7.1 
+INFO: 2019/03/19 12:52:56 This is the Export Client Microservice
+INFO: 2019/03/19 12:52:56 Service started in: 37.506043ms
+INFO: 2019/03/19 12:52:56 Listening on port: 48071
+WARN: 2019/03/19 12:52:56 terminating: listen tcp :48071: bind: address already in use

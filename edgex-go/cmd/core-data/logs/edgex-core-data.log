@@ -1,0 +1,24 @@
+INFO: 2019/03/08 10:05:58 Service dependencies resolved...
+INFO: 2019/03/08 10:05:58 Starting edgex-core-data 0.7.1 
+INFO: 2019/03/08 10:05:58 This is the Core Data Microservice
+INFO: 2019/03/08 10:05:58 Service started in: 739.987501ms
+INFO: 2019/03/08 10:05:58 Listening on port: 48080
+WARN: 2019/03/08 18:48:59 terminating: interrupt
+INFO: 2019/03/19 12:48:24 Service dependencies resolved...
+INFO: 2019/03/19 12:48:24 Starting edgex-core-data 0.7.1 
+INFO: 2019/03/19 12:48:24 This is the Core Data Microservice
+INFO: 2019/03/19 12:48:24 Service started in: 1.74135413s
+INFO: 2019/03/19 12:48:24 Listening on port: 48080
+WARN: 2019/03/19 12:48:24 terminating: listen tcp :48080: bind: address already in use
+INFO: 2019/03/19 12:50:22 Service dependencies resolved...
+INFO: 2019/03/19 12:50:22 Starting edgex-core-data 0.7.1 
+INFO: 2019/03/19 12:50:22 This is the Core Data Microservice
+INFO: 2019/03/19 12:50:22 Service started in: 441.983603ms
+INFO: 2019/03/19 12:50:22 Listening on port: 48080
+WARN: 2019/03/19 12:50:22 terminating: listen tcp :48080: bind: address already in use
+INFO: 2019/03/19 12:52:56 Service dependencies resolved...
+INFO: 2019/03/19 12:52:56 Starting edgex-core-data 0.7.1 
+INFO: 2019/03/19 12:52:56 This is the Core Data Microservice
+INFO: 2019/03/19 12:52:56 Service started in: 144.411356ms
+INFO: 2019/03/19 12:52:56 Listening on port: 48080
+WARN: 2019/03/19 12:52:56 terminating: listen tcp :48080: bind: address already in use

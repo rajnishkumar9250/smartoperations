@@ -1,0 +1,159 @@
+hash: 6ecde314fe5345445fc1928825dacd52060a764df0d99b321898e80538653242
+updated: 2019-03-08T09:40:34.563355404+05:30
+imports:
+- name: github.com/armon/go-metrics
+  version: f0300d1749da6fa982027e449ec0c7a145510c3c
+- name: github.com/BurntSushi/toml
+  version: a368813c5e648fee92e5f6c30e3944ff9d5e8895
+- name: github.com/cenkalti/backoff
+  version: 1e4cf3da559842a91afcb6ea6141451e6c30c618
+- name: github.com/davecgh/go-spew
+  version: 346938d642f2ec3594ed81d874461961cd0faa76
+  subpackages:
+  - spew
+- name: github.com/docker/distribution
+  version: 16128bbac47f75050e82f7e91b04df33775e0c23
+  subpackages:
+  - digestset
+  - reference
+- name: github.com/docker/docker
+  version: b1116479b23434de7d70710b6454af7cb2484a58
+  subpackages:
+  - api
+  - api/types
+  - api/types/blkiodev
+  - api/types/container
+  - api/types/events
+  - api/types/filters
+  - api/types/image
+  - api/types/mount
+  - api/types/network
+  - api/types/registry
+  - api/types/strslice
+  - api/types/swarm
+  - api/types/swarm/runtime
+  - api/types/time
+  - api/types/versions
+  - api/types/volume
+  - client
+  - errdefs
+- name: github.com/docker/go-connections
+  version: 97c2040d34dfae1d1b1275fa3a78dbdd2f41cf7e
+  subpackages:
+  - nat
+  - sockets
+  - tlsconfig
+- name: github.com/docker/go-units
+  version: 47565b4f722fb6ceae66b95f853feed578a4a51c
+- name: github.com/eclipse/paho.mqtt.golang
+  version: 36d01c2b4cbeb3d2a12063e4880ce30800af9560
+  subpackages:
+  - packets
+- name: github.com/go-zoo/bone
+  version: 9eaad4b99a9a66b85c0cc32cb9691621ccfa4278
+- name: github.com/gogo/protobuf
+  version: 1c2b16bc280d6635de6c52fc1471ab962dc36ec9
+  subpackages:
+  - proto
+- name: github.com/gomodule/redigo
+  version: 9c11da706d9b7902c6da69c592f75637793fe121
+  subpackages:
+  - internal
+  - redis
+- name: github.com/gorilla/context
+  version: 51ce91d2eaddeca0ef29a71d766bb3634dadf729
+- name: github.com/gorilla/mux
+  version: 392c28fe23e1c45ddba891b0320b3b5df220beea
+- name: github.com/hashicorp/consul
+  version: 5174058f0d2bda63fa5198ab96c33d9a909c58ed
+  subpackages:
+  - api
+- name: github.com/hashicorp/go-cleanhttp
+  version: e8ab9daed8d1ddd2d3c4efba338fe2eeae2e4f18
+- name: github.com/hashicorp/go-immutable-radix
+  version: 27df80928bb34bb1b0d6d0e01b9e679902e7a6b5
+- name: github.com/hashicorp/go-rootcerts
+  version: 63503fb4e1eca22f9ae0f90b49c5d5538a0e87eb
+- name: github.com/hashicorp/golang-lru
+  version: 7087cb70de9f7a8bc0a10c375cb0d2280a8edf9c
+  subpackages:
+  - simplelru
+- name: github.com/hashicorp/serf
+  version: b89a09ebd4b1b570e0076d5097272e67c10ac4f6
+  subpackages:
+  - coordinate
+- name: github.com/imdario/mergo
+  version: 7c29201646fa3de8506f701213473dd407f19646
+- name: github.com/influxdata/influxdb
+  version: 30832fc132de11e395c1b59dc6bfeb764439b56c
+  subpackages:
+  - client/v2
+  - models
+  - pkg/escape
+- name: github.com/magiconair/properties
+  version: c2353362d570a7bfa228149c62842019201cfb71
+- name: github.com/mattn/go-xmpp
+  version: e543ad3fcd51155e4b39f7487bdfcb5e3772f1ce
+- name: github.com/Microsoft/go-winio
+  version: 1a8911d1ed007260465c3bfbbc785ac6915a0bb8
+- name: github.com/mitchellh/consulstructure
+  version: b407c521973b7b902db2f09e65dbf5cb10f2dc5f
+- name: github.com/mitchellh/copystructure
+  version: 9a1b6f44e8da0e0e374624fb0a825a231b00c537
+- name: github.com/mitchellh/go-homedir
+  version: af06845cf3004701891bf4fdb884bfe4920b3727
+- name: github.com/mitchellh/mapstructure
+  version: 3536a929edddb9a5b34bd6861dc4a9647cb459fe
+- name: github.com/mitchellh/reflectwalk
+  version: eecee6c969c02c8cc2ae48e1e269843ae8590796
+- name: github.com/opencontainers/go-digest
+  version: ac19fd6e7483ff933754af248d80be865e543d22
+- name: github.com/opencontainers/image-spec
+  version: 243ea084a44451d27322fed02b682d99e2af3ba9
+  subpackages:
+  - specs-go
+  - specs-go/v1
+- name: github.com/pebbe/zmq4
+  version: 5b443b6471cea4b4f9f85025530c04c93233f76a
+- name: github.com/pelletier/go-toml
+  version: c01d1270ff3e442a8a57cddc1c92dc1138598194
+- name: github.com/pkg/errors
+  version: 27936f6d90f9c8e1145f11ed52ffffbfdb9e0af7
+- name: github.com/pmezard/go-difflib
+  version: 5d4384ee4fb2527b0a1256a821ebfc92f91efefc
+  subpackages:
+  - difflib
+- name: github.com/robfig/cron
+  version: b41be1df696709bb6395fe435af20370037c0b4c
+- name: github.com/satori/go.uuid
+  version: f58768cc1a7a7e77a3bd49e98cdd21419399b6a3
+- name: github.com/stretchr/objx
+  version: c61a9dfcced1815e7d40e214d00d1a8669a9f58c
+- name: github.com/stretchr/testify
+  version: 12b6f73e6084dad08a7c6e575284b177ecafbc71
+  subpackages:
+  - assert
+  - mock
+- name: golang.org/x/net
+  version: 9dfe39835686865bff950a07b394c12a98ddc811
+  subpackages:
+  - context
+  - context/ctxhttp
+  - proxy
+  - websocket
+- name: golang.org/x/sys
+  version: 062cd7e4e68206d8bab9b18396626e855c992658
+  subpackages:
+  - windows
+- name: gopkg.in/eapache/queue.v1
+  version: 44cc805cf13205b55f69e14bcb69867d1ae92f98
+- name: gopkg.in/mgo.v2
+  version: 3f83fa5005286a7fe593b055f0d7771a7dce4655
+  subpackages:
+  - bson
+  - internal/json
+  - internal/sasl
+  - internal/scram
+- name: gopkg.in/yaml.v2
+  version: eb3733d160e74a9c7e442f435eb3bea458e1d19f
+testImports: []
